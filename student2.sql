@@ -14,7 +14,8 @@ CREATE table studentTable(
     ("ada", "jss2");
 
     SELECT * FROM studentTable;
-    
 
+SELECT * FROM studentTable
+WHERE class = "ss1";
 
 )
